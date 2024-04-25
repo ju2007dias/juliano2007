@@ -2,7 +2,7 @@
 
 Meu nome é Juliano Correia
 
--Estou estudando na Alura  
+-Estou estudando na [Alura](https://www.alura.com.br)  
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -11,4 +11,7 @@ Meu nome é Juliano Correia
 ### Você entra em contato comigo📫
 
 00001106149221sp@al.educacao.sp.gov.br
+
 @jucorreiadias
+
+![](<img src="https://imagens.net.br/wp-content/uploads/2023/12/encantando-coracoes-fotos-adoraveis-de-gatinhos-que-vao-derreter-sua-alma-0.jpg" alt="encantando-coracoes-fotos-adoraveis-de-gatinhos-que-vao-derreter-sua-alma-0.jpg (736×1087)"/>!)
